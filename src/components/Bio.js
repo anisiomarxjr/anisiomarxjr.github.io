@@ -16,7 +16,7 @@ class Bio extends React.Component {
         }}
       >        
         <p>
-          Intersection between <strong>math</strong>, <strong>web</strong> and <strong>computer science</strong>.{' '}
+          <strong>math</strong>, <strong>web</strong> and <strong>computer science</strong>.{' '}
         </p>
       </div>
     )
